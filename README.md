@@ -12,3 +12,6 @@ use
 ```
 
 and the script will get the fonts & css and then save it onto your server. After that, no more queries will be send to google's servers anymore ;-)
+
+This script was modified from broncowdd original script and includes useragent-aware downloading of font-face file.
+this requires curl php extension.
